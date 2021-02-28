@@ -21,6 +21,7 @@ setup(
     ],
     author='skygongque',
     author_email='1243650225@qq.com',
+    url='https://github.com/skygongque/wxnotify',
     include_package_data=True,
     install_requires=['requests'],
     packages=find_packages()
