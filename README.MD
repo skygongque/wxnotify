@@ -27,6 +27,7 @@ pip install wxnotify -i https://pypi.python.org/simple
 
 # 示例
 ```
+import wxnotify
 # 企业ID
 CORPID = 'wwfaa43666b1****'
 # 应用Secret
