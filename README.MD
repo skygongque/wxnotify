@@ -37,6 +37,8 @@ AgentId = '1000002'
 t = wxnotify.WxNotify(CORPID,CORPSECRET,AgentId)
 res = t.send('this is a message')
 print(res)
+res = t.send('this is another message')
+print(res)
 ```
 
 
